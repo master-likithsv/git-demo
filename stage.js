@@ -1,2 +1,1 @@
-console.log('i want upload this stage')
-;
+console.log('i want upload this stage');
